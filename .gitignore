@@ -1,0 +1,13 @@
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Java compiled files
+*.class
+out/
+bin/
+
+# VS Code local settings (optional)
+# .vscode/
